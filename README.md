@@ -18,6 +18,19 @@ This project demonstrates advanced data analysis techniques using the Pandas lib
 - Create Pivot Tables for summarized reporting.
 - Generate visualizations and business insights.
 
+## Language Used
+
+Python
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* CSV Files
+
 ## Datasets Used
 
 ### customers.csv
